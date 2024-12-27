@@ -1,0 +1,9 @@
+{
+  "Word": [
+    {"word": "happy", "translation": "счастливый"},
+    {"word": "sad", "translation": "грустный"},
+    {"word": "angry", "translation": "сердитый"},
+    {"word": "tired", "translation": "уставший"},
+    {"word": "excited", "translation": "взволнованный"}
+  ]
+}

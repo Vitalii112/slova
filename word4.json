@@ -1,0 +1,9 @@
+{
+  "Word": [
+    {"word": "cold", "translation": "холодный"},
+    {"word": "hot", "translation": "горячий"},
+    {"word": "dry", "translation": "сухой"},
+    {"word": "wet", "translation": "мокрый"},
+    {"word": "clean", "translation": "чистый"}
+  ]
+}

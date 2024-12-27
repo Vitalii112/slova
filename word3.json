@@ -1,0 +1,9 @@
+{
+  "Word": [
+    {"word": "tall", "translation": "высокий"},
+    {"word": "short", "translation": "низкий"},
+    {"word": "big", "translation": "большой"},
+    {"word": "small", "translation": "маленький"},
+    {"word": "wide", "translation": "широкий"}
+  ]
+}
